@@ -13,5 +13,4 @@ Note: This program works only with WAV format.
    ```
    ./volume <input_file_name> <output_file_name> <factor>
    ```
- <p>Example: </p> `./volume song1.wav song2.wav 2.0`
-  
+ in which factor (2.0) doubles the volume & 0.5 cuts the volume in half.
