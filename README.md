@@ -9,7 +9,7 @@ Note: This program works only with WAV format.
    ```
    cc volume.c -o volume
    ```
- 3. run the program by 
+ 3. run the program
    ```
    ./volume <input_file_name> <output_file_name> <factor>
    ```
