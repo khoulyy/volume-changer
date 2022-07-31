@@ -1,4 +1,4 @@
-# volume-slider
+# volume-changer
 A program that changes volume level by changing the value inside file's bytes in memory.
 
 Note: This program works only with WAV format.
