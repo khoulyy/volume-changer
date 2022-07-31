@@ -5,7 +5,7 @@ Note: This program works only with WAV format.
 
 ## How to use:
  1. Download source code
- 2. Compile the program by
+ 2. Compile the program
    ```
    cc volume.c -o volume
    ```
