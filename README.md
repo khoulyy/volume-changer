@@ -1,4 +1,5 @@
 # volume-slider
+A program that changes volume level by changing the value inside files' bytes in memory.
 
 Note: This program works only with WAV format.
 
